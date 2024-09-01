@@ -1,0 +1,3 @@
+project(leetcode_cpp_problems_tests)
+
+add_subdirectory(arrays)
