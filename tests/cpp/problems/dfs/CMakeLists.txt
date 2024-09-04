@@ -1,0 +1,3 @@
+project(leetcode_cpp_problems_tests_dfs)
+
+add_subdirectory(nested_list_weight_sum_339)
