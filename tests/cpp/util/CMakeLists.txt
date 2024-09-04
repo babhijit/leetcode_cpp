@@ -26,6 +26,7 @@ set(LOADER_HEADERS
         include/loader/test_case_loader.hpp
         include/loader/tree/load_bst.hpp
         include/loader/arrays/load_int_array.hpp
+        include/loader/arrays/load_str_array.hpp
         include/loader/arrays/load_t_array.hpp
         include/loader/arrays/load_int_matrix.hpp
         include/loader/arrays/load_t_matrix.hpp
@@ -38,6 +39,7 @@ set(LOADER_SOURCES impl/loader/base_loader.cpp
         impl/loader/tree/load_bst.cpp
         impl/loader/test_case_loader.cpp
         impl/loader/arrays/load_int_array.cpp
+        impl/loader/arrays/load_str_array.cpp
         impl/loader/arrays/load_int_matrix.cpp
 )
 

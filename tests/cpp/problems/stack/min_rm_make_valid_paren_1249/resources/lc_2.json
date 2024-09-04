@@ -1,0 +1,4 @@
+{
+  "s": "a)b(c)d",
+  "expected": ["ab(c)d"]
+}

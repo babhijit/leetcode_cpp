@@ -1,0 +1,3 @@
+project(leetcode_cpp_problems_stack)
+
+add_subdirectory(min_rm_make_valid_paren_1249)

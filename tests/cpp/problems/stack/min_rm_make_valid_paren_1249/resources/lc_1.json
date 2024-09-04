@@ -1,0 +1,4 @@
+{
+  "s": "lee(t(c)o)de)",
+  "expected": ["lee(t(c)o)de", "lee(t(c)ode)"]
+}
