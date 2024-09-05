@@ -24,3 +24,8 @@ DSA problems from Leetcode in C++.
 
 ### DFS
 1. [Nested List Weight Sum](src/cpp/problems/dfs/nested_list_weight_sum_339)
+
+---------------------------------------------
+
+### Tree
+1. [Binary Tree Vertical Order Traversal](src/cpp/problems/tree/bin_tree_vert_order_traversal_314)
