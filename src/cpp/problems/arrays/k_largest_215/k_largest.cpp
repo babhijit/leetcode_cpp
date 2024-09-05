@@ -10,12 +10,12 @@
 namespace problems::array::k_largest {
 
     int KLargest::findKthLargest(std::vector<int> &nums, int k) {
-        std::priority_queue<int> maxPQ(nums.begin(), nums.end());
+        std::priority_queue<int> heap(nums.begin(), nums.end());
         while (--k > 0) {
-            maxPQ.pop();
+            heap.pop();
         }
 
-        return maxPQ.top();
+        return heap.top();
     }
 
 }

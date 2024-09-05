@@ -30,19 +30,19 @@ namespace problems::arrays::k_closest {
         using Point = std::vector<int>;
         using Matrix = std::vector<Point>;
 
-        std::priority_queue<Point, Matrix, PointComparator> maxPq;
+        std::priority_queue<Point, Matrix, PointComparator> heap;
         for (auto& pt: points) {
-            maxPq.push(pt);
-            if (maxPq.size() > k) {
-                maxPq.pop();
+            heap.push(pt);
+            if (heap.size() > k) {
+                heap.pop();
             }
         }
 
         Matrix result;
         result.reserve(k);
-        while (not maxPq.empty()) {
-            result.push_back(maxPq.top());
-            maxPq.pop();
+        while (not heap.empty()) {
+            result.push_back(heap.top());
+            heap.pop();
         }
 
         return result;
