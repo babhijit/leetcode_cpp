@@ -2,3 +2,4 @@ project(leetcode_cpp_problems_arrays)
 
 add_subdirectory(k_largest_215)
 add_subdirectory(k_closest_points_to_origin_973)
+add_subdirectory(merge_intervals_56)

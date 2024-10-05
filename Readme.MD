@@ -14,6 +14,7 @@ DSA problems from Leetcode in C++.
 
 1. [K Largest Elements](src/cpp/problems/arrays/k_largest_215)
 2. [K Closest Points to Origin](src/cpp/problems/arrays/k_closest_points_to_origin_973)
+3. [Merge Intervals](src/cpp/problems/arrays/merge_intervals_56)
 
 ---------------------------------------------
 
