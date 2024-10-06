@@ -22,7 +22,9 @@ DSA problems from Leetcode in C++.
 1. [Minimum Remove to Make Valid Parentheses](src/cpp/problems/stack/min_rm_make_valid_paren_1249)
 
 ---------------------------------------------
+### String
 
+---------------------------------------------
 ### DFS
 1. [Nested List Weight Sum](src/cpp/problems/dfs/nested_list_weight_sum_339)
 
@@ -30,3 +32,5 @@ DSA problems from Leetcode in C++.
 
 ### Tree
 1. [Binary Tree Vertical Order Traversal](src/cpp/problems/tree/bin_tree_vert_order_traversal_314)
+
+---------------------------------------------
