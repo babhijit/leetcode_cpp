@@ -2,7 +2,7 @@
 
 #include "loader/json_loader.hpp"
 #include "loader/arrays/load_int_matrix.hpp"
-#include "loader/tree/load_bst.hpp"
+#include "loader/tree/load_binary_tree.hpp"
 
 #include <boost/json.hpp>
 
@@ -46,8 +46,8 @@ private:
 
 public:
     static TreeNode *loadBst(std::string const &bstInput) {
-        LoadBst bstLoader;
-        return bstLoader.loadBst(bstInput);
+        LoadBinaryTree bstLoader;
+        return bstLoader.loadBinaryTree(bstInput);
     }
 
     static IntMatrix loadMatrix(boost::json::array jsonMatrix) {

@@ -1,3 +1,4 @@
 project(leetcode_cpp_problems_tree)
 
 add_subdirectory(bin_tree_vert_order_traversal_314)
+add_subdirectory(lowest_common_anscestor_binary_tree_1650)
