@@ -1,3 +1,3 @@
-project(leetcode_cpp_problems_string)
+project(leetcode_cpp_problems_tests_string)
 
 add_subdirectory(min_add_to_make_parentheses_valid_921)

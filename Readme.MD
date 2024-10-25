@@ -25,7 +25,7 @@ DSA problems from Leetcode in C++.
 
 ---------------------------------------------
 ### String
-
+1. [Minimum Add to Make Parentheses Valid](src/cpp/problems/string/min_add_to_make_parentheses_valid_921)
 ---------------------------------------------
 ### DFS
 1. [Nested List Weight Sum](src/cpp/problems/dfs/nested_list_weight_sum_339)
