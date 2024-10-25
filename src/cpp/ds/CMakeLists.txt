@@ -5,6 +5,7 @@ include_directories(include)
 set(LIB_HEADERS
         include/list/list_node.hpp
         include/list/dlist_node.hpp
+        include/list/utils/list_utils.hpp
         include/tree/tree_node.hpp
         include/tree/tree_parent_node.hpp
         include/exceptions/not_implemented.hpp

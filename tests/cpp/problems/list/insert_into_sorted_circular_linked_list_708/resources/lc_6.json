@@ -1,0 +1,5 @@
+{
+  "head": [3,3,3],
+  "insertVal": 0,
+  "expected": [3,3,3,0]
+}

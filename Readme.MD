@@ -37,3 +37,6 @@ DSA problems from Leetcode in C++.
 2. [Lowest Common Ancestor of a Binary Tree with Parent Pointers](src/cpp/problems/tree/lowest_common_anscestor_binary_tree_1650)
 
 ---------------------------------------------
+
+### List
+1. [Insert into Sorted Circular Linked List](src/cpp/problems/list/insert_into_sorted_circular_linked_list_708)
