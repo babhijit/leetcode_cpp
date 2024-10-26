@@ -17,6 +17,7 @@ DSA problems from Leetcode in C++.
 3. [Merge Intervals](src/cpp/problems/arrays/merge_intervals_56)
 4. [Max Subarray](src/cpp/problems/arrays/max_subarray_53)  *Grind 75*
 5. [Interval List Intersections](src/cpp/problems/arrays/interval_list_intersections_986)
+6. [Find Minimum in Rotated Sorted Array](src/cpp/problems/arrays/find_min_in_rotated_sorted_array_153)
 
 ---------------------------------------------
 
