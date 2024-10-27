@@ -18,6 +18,7 @@ DSA problems from Leetcode in C++.
 4. [Max Subarray](src/cpp/problems/arrays/max_subarray_53)  *Grind 75*
 5. [Interval List Intersections](src/cpp/problems/arrays/interval_list_intersections_986)
 6. [Find Minimum in Rotated Sorted Array](src/cpp/problems/arrays/find_min_in_rotated_sorted_array_153)
+7. [Find Length of Longest Common Prefix](src/cpp/problems/arrays/find_length_longest_common_prefix_3043)
 
 ---------------------------------------------
 
