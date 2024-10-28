@@ -1,3 +1,4 @@
 project(leetcode_cpp_problems_tests_list)
 
 add_subdirectory(insert_into_sorted_circular_linked_list_708)
+add_subdirectory(reorder_list_143)

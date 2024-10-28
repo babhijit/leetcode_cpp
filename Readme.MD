@@ -42,3 +42,4 @@ DSA problems from Leetcode in C++.
 
 ### List
 1. [Insert into Sorted Circular Linked List](src/cpp/problems/list/insert_into_sorted_circular_linked_list_708)
+2. [Reorder List](src/cpp/problems/list/reorder_list_143)

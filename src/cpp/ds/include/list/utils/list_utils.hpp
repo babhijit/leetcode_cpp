@@ -9,7 +9,7 @@ namespace ds::list::utils {
         auto bIt = b;
 
         while (aIt and bIt) {
-            if (aIt->val != b->val) {
+            if (aIt->val != bIt->val) {
                 return false;
             }
             aIt = aIt->next;
