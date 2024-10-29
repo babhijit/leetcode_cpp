@@ -37,6 +37,7 @@ DSA problems from Leetcode in C++.
 ### Tree
 1. [Binary Tree Vertical Order Traversal](src/cpp/problems/tree/bin_tree_vert_order_traversal_314)
 2. [Lowest Common Ancestor of a Binary Tree with Parent Pointers](src/cpp/problems/tree/lowest_common_anscestor_binary_tree_1650)
+3. [Even Odd Tree](src/cpp/problems/tree/even_odd_tree_1609)
 
 ---------------------------------------------
 
